@@ -65,12 +65,3 @@ The league was structured into progressive modules to mirror real-world data sci
 * **Visualization:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-Learn
 * **Evaluation Metrics:** Root Mean Squared Error ($RMSE$)
-
----
-
-## 🚀 How to Run the Infrastructure
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/data-league.git](https://github.com/your-username/data-league.git)
-   cd data-league
